@@ -5,7 +5,7 @@ package ml.pevgen.interview.example;
  * Is it immutable class ?
  * If it is not, what should we change to do this class immutable ?
  */
-public final class ImmutablePerson {
+public class ImmutablePerson {
 
     String name;
     int age;

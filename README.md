@@ -1,1 +1,1 @@
-Task set for java interview
+Tasks for the interview
